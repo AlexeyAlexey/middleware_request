@@ -1,0 +1,1 @@
+gem for rack App. Generate unique ID and can store params
